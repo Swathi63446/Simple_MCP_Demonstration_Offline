@@ -1,0 +1,22 @@
+[
+  {"id": 1, "text": "MCP stands for Model Context Protocol."},
+  {"id": 2, "text": "MCP allows AI models to access external tools and data."},
+  {"id": 3, "text": "Python is widely used for AI and machine learning projects."},
+  {"id": 4, "text": "Monte Carlo simulations are used for probabilistic modeling."},
+  {"id": 5, "text": "AI models can be integrated with APIs to get real-time data."},
+  {"id": 6, "text": "MCP is a protocol that standardizes how models interact with tools."},
+  {"id": 7, "text": "Open-source MCP servers can expose databases, files, and services."},
+  {"id": 8, "text": "MCP clients send requests to MCP servers to get contextual data."},
+  {"id": 9, "text": "MCP helps agents perform actions beyond plain text generation."},
+  {"id": 10, "text": "Weather data in this mock project is simulated and not real."},
+  {"id": 11, "text": "Machine learning models need training data to make predictions."},
+  {"id": 12, "text": "Neural networks are a key part of deep learning."},
+  {"id": 13, "text": "Natural language processing allows machines to understand text."},
+  {"id": 14, "text": "Reinforcement learning trains agents by reward feedback."},
+  {"id": 15, "text": "Python's libraries like pandas and numpy simplify data analysis."},
+  {"id": 16, "text": "MCP makes it easier for AI agents to access structured and unstructured data."},
+  {"id": 17, "text": "Simulated weather information is returned by the MCP server for demonstration purposes."},
+  {"id": 18, "text": "The MCP protocol can be extended to custom tools beyond weather and search."},
+  {"id": 19, "text": "Offline MCP agents rely on mock databases to answer general queries."},
+  {"id": 20, "text": "The mock database contains entries about AI, MCP, Python, and general knowledge for testing."}
+]
